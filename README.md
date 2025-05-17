@@ -18,7 +18,8 @@
       DFS (Tìm kiếm theo chiều sâu)
       UCS (Tìm kiếm chi phí đồng nhất)
       IDS (Tìm kiếm sâu dần)
-  
+  ![nhom1](https://github.com/user-attachments/assets/f0a6de1f-980b-45b8-ac98-8d38ea8807e2)
+
   2.2. Các thuật toán tìm kiếm có thông tin
     Các thành phần chính của bài toán tìm kiếm:
       Trạng thái (State): Một bảng 8 ô số.
@@ -31,7 +32,8 @@
       Greedy Best-First Search
       A* Search
       IDA* Search
-  
+  ![nhom2](https://github.com/user-attachments/assets/bbb624ee-e101-466e-aaf1-58697e11c3e2)
+
   2.3. Local search
     Các thành phần chính của bài toán tìm kiếm:
       Trạng thái (State): Một bảng 8 ô số.
@@ -45,7 +47,8 @@
       Simulated Annealing
       Genetic Algorithm
       Beam Search
-  
+  ![nhom3](https://github.com/user-attachments/assets/7e41c31e-dede-406d-a6bc-813c7385cd83)
+
   2.4. Tìm kiếm trong môi trường phức tạp
     Giới thiệu:
       Trong thực tế, nhiều bài toán tìm kiếm diễn ra trong các môi trường phức tạp hơn so với môi trường tĩnh và quan sát được hoàn toàn của bài toán 8 ô số.
